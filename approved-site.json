@@ -1,0 +1,81 @@
+{
+  "archive": {
+    "file": "hermes-trending-weekly-2026-W43.zip",
+    "sha256": "e8ea8b8354fa835ed101f9420200001b2fb435cb32afbfc28d1f782e27ee8554",
+    "bytes": 125150
+  },
+  "files": {
+    "404.html": {
+      "sha256": "d3e7d7fef71067d02802772d258232c8d053504289679bb1cfda6803e901bbdb",
+      "bytes": 680
+    },
+    "index.html": {
+      "sha256": "2b39a996ec17c42a7f17ec8ef287fa3b5ce9c8dc45478aa65fe5e0ff34d0a330",
+      "bytes": 1271
+    },
+    "posts/2026-W43/assets/site.css": {
+      "sha256": "bb6e175beed5c98aa5c65c1c597922716d2f8e93f46f023800c0e1013e9dd5a3",
+      "bytes": 18269
+    },
+    "posts/2026-W43/cover.png": {
+      "sha256": "1fc681f8362994d01e311a2a5695e716458614660ba22af877fd644e639dd8d7",
+      "bytes": 89522
+    },
+    "posts/2026-W43/details/01.html": {
+      "sha256": "6fe924b9c4d9dcb809d38123c793b1a53b9b36a04c0464eebc7d72688fff560c",
+      "bytes": 4590
+    },
+    "posts/2026-W43/details/02.html": {
+      "sha256": "14c12a9dff5314d89216c1088d0134d7f4955dd40b0a9834959772c05181e843",
+      "bytes": 6014
+    },
+    "posts/2026-W43/details/03.html": {
+      "sha256": "21aed3509bb82f9ab19cdece51f17cc886430e55c4c68c3cbe899f6d3227d954",
+      "bytes": 6116
+    },
+    "posts/2026-W43/details/04.html": {
+      "sha256": "a22614c012a9b9ba5af53b489bccd792959fee2b088396019a69c53e6c258f64",
+      "bytes": 5885
+    },
+    "posts/2026-W43/details/05.html": {
+      "sha256": "5f5e80ca2430fde0d625d08acc2f97e8d1721f5eba82f62a86851cf24df3ff68",
+      "bytes": 5829
+    },
+    "posts/2026-W43/details/06.html": {
+      "sha256": "c83df9e5f7ef3ad6f8557d20fbe754383ea2a5f33f71043a4ac5e02a2208eb70",
+      "bytes": 5598
+    },
+    "posts/2026-W43/details/07.html": {
+      "sha256": "f54c631b5fa9870a3374e8c13fcb0e8354b3830aea143404cc42bc490a1ff401",
+      "bytes": 6468
+    },
+    "posts/2026-W43/details/08.html": {
+      "sha256": "6d9d93795f4b6fceb757d10937cdd9cae2d2c472d5b91fe3f8b9f31ff6173bd0",
+      "bytes": 5645
+    },
+    "posts/2026-W43/details/09.html": {
+      "sha256": "cfcc6f58652115e843bc981e1bc3b83179ef87c73d3ab5bf4b01b158a53cc8d6",
+      "bytes": 7313
+    },
+    "posts/2026-W43/details/10.html": {
+      "sha256": "93c3394483c219c04f45d246e179c904ffeaf8f3f46d65156f72c4672b484978",
+      "bytes": 5214
+    },
+    "posts/2026-W43/details/11.html": {
+      "sha256": "a5106e15ec58e1807aa258d7e9494262ea15989124962ae68ebbb979642ce4bb",
+      "bytes": 4602
+    },
+    "posts/2026-W43/details/12.html": {
+      "sha256": "f9297e60e89d2eb1859ac69019a8275ba955c6b5c3ce1b463d1c386afc3c8d11",
+      "bytes": 5881
+    },
+    "posts/2026-W43/details/13.html": {
+      "sha256": "5daa12f8b259c581b06b3f0cf4c0ddbd816b43baed895cc7e9f4b7caefd64041",
+      "bytes": 6121
+    },
+    "posts/2026-W43/index.html": {
+      "sha256": "b595fcad5db44e7ad2a7ac22c0729ea68ce15948803322396c5bbbdb4179aebe",
+      "bytes": 9473
+    }
+  }
+}
