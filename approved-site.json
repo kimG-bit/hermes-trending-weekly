@@ -1,81 +1,198 @@
 {
   "archive": {
-    "file": "hermes-trending-weekly-2026-W43.zip",
-    "sha256": "e8ea8b8354fa835ed101f9420200001b2fb435cb32afbfc28d1f782e27ee8554",
-    "bytes": 125150
+    "bytes": 168898,
+    "file": "hermes-weekly-W43-r2-noimage.zip",
+    "sha256": "6f0d02bd14b735eec308b8f03020997ed876020d540e83c9f71f66ed5ccd9ebd"
+  },
+  "asset": "hermes-weekly-W43-r2-noimage.zip",
+  "entries": {
+    "2026-W43": {
+      "bonus": 3,
+      "build_id": "02169172f7a45bf8b249d90ca6c474e73d7828a42f877ba410fc851547d5272e",
+      "date": "2026-10-21 21:21 KST",
+      "issue_id": "2026-W43",
+      "path": "posts/2026-W43",
+      "ranks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "revision": 1
+    },
+    "2026-W43-r2": {
+      "bonus": 3,
+      "build_id": "c8266b2df775140a65a37feeb823b78c9a932598a03db913e6d539a894afc36f",
+      "date": "2026-10-21 21:21 KST",
+      "issue_id": "2026-W43",
+      "path": "posts/2026-W43/revisions/r2",
+      "ranks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "revision": 2
+    }
   },
   "files": {
     "404.html": {
-      "sha256": "d3e7d7fef71067d02802772d258232c8d053504289679bb1cfda6803e901bbdb",
-      "bytes": 680
+      "bytes": 680,
+      "sha256": "d3e7d7fef71067d02802772d258232c8d053504289679bb1cfda6803e901bbdb"
     },
     "index.html": {
-      "sha256": "2b39a996ec17c42a7f17ec8ef287fa3b5ce9c8dc45478aa65fe5e0ff34d0a330",
-      "bytes": 1271
+      "bytes": 1726,
+      "sha256": "d09d582be9d506fd6dd88ca53e9546cc08d9606eccab73c8754c2fc7d6714759"
     },
     "posts/2026-W43/assets/site.css": {
-      "sha256": "bb6e175beed5c98aa5c65c1c597922716d2f8e93f46f023800c0e1013e9dd5a3",
-      "bytes": 18269
+      "bytes": 18269,
+      "sha256": "bb6e175beed5c98aa5c65c1c597922716d2f8e93f46f023800c0e1013e9dd5a3"
     },
     "posts/2026-W43/cover.png": {
-      "sha256": "1fc681f8362994d01e311a2a5695e716458614660ba22af877fd644e639dd8d7",
-      "bytes": 89522
+      "bytes": 89522,
+      "sha256": "1fc681f8362994d01e311a2a5695e716458614660ba22af877fd644e639dd8d7"
     },
     "posts/2026-W43/details/01.html": {
-      "sha256": "6fe924b9c4d9dcb809d38123c793b1a53b9b36a04c0464eebc7d72688fff560c",
-      "bytes": 4590
+      "bytes": 4590,
+      "sha256": "6fe924b9c4d9dcb809d38123c793b1a53b9b36a04c0464eebc7d72688fff560c"
     },
     "posts/2026-W43/details/02.html": {
-      "sha256": "14c12a9dff5314d89216c1088d0134d7f4955dd40b0a9834959772c05181e843",
-      "bytes": 6014
+      "bytes": 6014,
+      "sha256": "14c12a9dff5314d89216c1088d0134d7f4955dd40b0a9834959772c05181e843"
     },
     "posts/2026-W43/details/03.html": {
-      "sha256": "21aed3509bb82f9ab19cdece51f17cc886430e55c4c68c3cbe899f6d3227d954",
-      "bytes": 6116
+      "bytes": 6116,
+      "sha256": "21aed3509bb82f9ab19cdece51f17cc886430e55c4c68c3cbe899f6d3227d954"
     },
     "posts/2026-W43/details/04.html": {
-      "sha256": "a22614c012a9b9ba5af53b489bccd792959fee2b088396019a69c53e6c258f64",
-      "bytes": 5885
+      "bytes": 5885,
+      "sha256": "a22614c012a9b9ba5af53b489bccd792959fee2b088396019a69c53e6c258f64"
     },
     "posts/2026-W43/details/05.html": {
-      "sha256": "5f5e80ca2430fde0d625d08acc2f97e8d1721f5eba82f62a86851cf24df3ff68",
-      "bytes": 5829
+      "bytes": 5829,
+      "sha256": "5f5e80ca2430fde0d625d08acc2f97e8d1721f5eba82f62a86851cf24df3ff68"
     },
     "posts/2026-W43/details/06.html": {
-      "sha256": "c83df9e5f7ef3ad6f8557d20fbe754383ea2a5f33f71043a4ac5e02a2208eb70",
-      "bytes": 5598
+      "bytes": 5598,
+      "sha256": "c83df9e5f7ef3ad6f8557d20fbe754383ea2a5f33f71043a4ac5e02a2208eb70"
     },
     "posts/2026-W43/details/07.html": {
-      "sha256": "f54c631b5fa9870a3374e8c13fcb0e8354b3830aea143404cc42bc490a1ff401",
-      "bytes": 6468
+      "bytes": 6468,
+      "sha256": "f54c631b5fa9870a3374e8c13fcb0e8354b3830aea143404cc42bc490a1ff401"
     },
     "posts/2026-W43/details/08.html": {
-      "sha256": "6d9d93795f4b6fceb757d10937cdd9cae2d2c472d5b91fe3f8b9f31ff6173bd0",
-      "bytes": 5645
+      "bytes": 5645,
+      "sha256": "6d9d93795f4b6fceb757d10937cdd9cae2d2c472d5b91fe3f8b9f31ff6173bd0"
     },
     "posts/2026-W43/details/09.html": {
-      "sha256": "cfcc6f58652115e843bc981e1bc3b83179ef87c73d3ab5bf4b01b158a53cc8d6",
-      "bytes": 7313
+      "bytes": 7313,
+      "sha256": "cfcc6f58652115e843bc981e1bc3b83179ef87c73d3ab5bf4b01b158a53cc8d6"
     },
     "posts/2026-W43/details/10.html": {
-      "sha256": "93c3394483c219c04f45d246e179c904ffeaf8f3f46d65156f72c4672b484978",
-      "bytes": 5214
+      "bytes": 5214,
+      "sha256": "93c3394483c219c04f45d246e179c904ffeaf8f3f46d65156f72c4672b484978"
     },
     "posts/2026-W43/details/11.html": {
-      "sha256": "a5106e15ec58e1807aa258d7e9494262ea15989124962ae68ebbb979642ce4bb",
-      "bytes": 4602
+      "bytes": 4602,
+      "sha256": "a5106e15ec58e1807aa258d7e9494262ea15989124962ae68ebbb979642ce4bb"
     },
     "posts/2026-W43/details/12.html": {
-      "sha256": "f9297e60e89d2eb1859ac69019a8275ba955c6b5c3ce1b463d1c386afc3c8d11",
-      "bytes": 5881
+      "bytes": 5881,
+      "sha256": "f9297e60e89d2eb1859ac69019a8275ba955c6b5c3ce1b463d1c386afc3c8d11"
     },
     "posts/2026-W43/details/13.html": {
-      "sha256": "5daa12f8b259c581b06b3f0cf4c0ddbd816b43baed895cc7e9f4b7caefd64041",
-      "bytes": 6121
+      "bytes": 6121,
+      "sha256": "5daa12f8b259c581b06b3f0cf4c0ddbd816b43baed895cc7e9f4b7caefd64041"
     },
     "posts/2026-W43/index.html": {
-      "sha256": "b595fcad5db44e7ad2a7ac22c0729ea68ce15948803322396c5bbbdb4179aebe",
-      "bytes": 9473
+      "bytes": 9473,
+      "sha256": "b595fcad5db44e7ad2a7ac22c0729ea68ce15948803322396c5bbbdb4179aebe"
+    },
+    "posts/2026-W43/revisions/r2/assets/site.css": {
+      "bytes": 18269,
+      "sha256": "bb6e175beed5c98aa5c65c1c597922716d2f8e93f46f023800c0e1013e9dd5a3"
+    },
+    "posts/2026-W43/revisions/r2/details/01.html": {
+      "bytes": 5275,
+      "sha256": "d579edf1784d24ab734e8644b41d5b40a03ab1e07cbc25f9dd1562b1aa488425"
+    },
+    "posts/2026-W43/revisions/r2/details/02.html": {
+      "bytes": 6781,
+      "sha256": "404aabe497da9cdf3681b402f110f0884a362a3e099d81301ec06d900415e622"
+    },
+    "posts/2026-W43/revisions/r2/details/03.html": {
+      "bytes": 6798,
+      "sha256": "1a8ffba9c118a779ce54d47338a5d6fc060328d592a1761035f8d9ad5e593a0c"
+    },
+    "posts/2026-W43/revisions/r2/details/04.html": {
+      "bytes": 6519,
+      "sha256": "c552fada213c5c82dc693a8b8b44c7a16186afb8d9cf6fc975bed1c27d619d9f"
+    },
+    "posts/2026-W43/revisions/r2/details/05.html": {
+      "bytes": 6427,
+      "sha256": "b254e60eac23c998e9bc2972b10e74b31b2a0e457659369c33f963d5fcc4c324"
+    },
+    "posts/2026-W43/revisions/r2/details/06.html": {
+      "bytes": 6324,
+      "sha256": "1ef34392961f9f125b683c38ab8b38d35f9e9a8171e27068b162273038cfa94d"
+    },
+    "posts/2026-W43/revisions/r2/details/07.html": {
+      "bytes": 7201,
+      "sha256": "70499b24ea2e2a95416403d0b1f4342c5c72942af73c5238fa55bbfa52f250c5"
+    },
+    "posts/2026-W43/revisions/r2/details/08.html": {
+      "bytes": 6468,
+      "sha256": "95532cb73ea22ff4b624b1d3b647143b798222e955f306ba84fd8f38a0956606"
+    },
+    "posts/2026-W43/revisions/r2/details/09.html": {
+      "bytes": 8244,
+      "sha256": "ffa7f3a451cc2f48ad1239542e45d3bc0ece8eb29780913b80273a0b0a5272d8"
+    },
+    "posts/2026-W43/revisions/r2/details/10.html": {
+      "bytes": 5966,
+      "sha256": "f6d64e0cbbba6495f413a03c0918663be824322526b945addcba483b80c397bf"
+    },
+    "posts/2026-W43/revisions/r2/details/11.html": {
+      "bytes": 5282,
+      "sha256": "3ce5bb15ebbdc62525f4e466ce2d4944d5939dcdce09cbb8f52f2992e184c5dc"
+    },
+    "posts/2026-W43/revisions/r2/details/12.html": {
+      "bytes": 6577,
+      "sha256": "f41b6f92265bac04ff81aa1194bf6566949774284b7de348d4ecd3a89471c86d"
+    },
+    "posts/2026-W43/revisions/r2/details/13.html": {
+      "bytes": 6903,
+      "sha256": "61b65799bde07ab1bf736d6561161c0a5b97defe62def811356e095e80af819a"
+    },
+    "posts/2026-W43/revisions/r2/index.html": {
+      "bytes": 10103,
+      "sha256": "5fa2aa3a197fb91a2ec9b7ce7bf9aa0fed148f0e23e0049f6a14796e0ae7b162"
     }
-  }
+  },
+  "optional_assets": {
+    "2026-W43": [
+      "cover.png"
+    ],
+    "2026-W43-r2": []
+  },
+  "release_tag": "2026-W43-r2-5d307d7aaed0",
+  "schema_version": 2
 }

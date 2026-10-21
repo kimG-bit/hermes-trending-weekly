@@ -18,7 +18,7 @@ jobs:
         with:
           persist-credentials: false
       - name: Download the approved release bundle
-        run: curl --fail --location --proto '=https' --tlsv1.2 --max-time 120 --output site.zip https://github.com/kimG-bit/hermes-trending-weekly/releases/download/2026-W43/hermes-trending-weekly-2026-W43.zip
+        run: python3 verify_bundle.py --download approved-site.json site.zip
       - name: Verify approval and safely extract
         run: python3 verify_bundle.py site.zip approved-site.json _site
       - uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
