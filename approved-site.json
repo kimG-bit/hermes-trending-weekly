@@ -1,10 +1,10 @@
 {
   "archive": {
-    "bytes": 168898,
-    "file": "hermes-weekly-W43-r2-noimage.zip",
-    "sha256": "6f0d02bd14b735eec308b8f03020997ed876020d540e83c9f71f66ed5ccd9ebd"
+    "bytes": 208659,
+    "file": "2026-W43-r6.zip",
+    "sha256": "12f2a4126e0c620aa0f8da6e80b2a98c60d68cf3f8ace25287af9dd253a1e5d6"
   },
-  "asset": "hermes-weekly-W43-r2-noimage.zip",
+  "asset": "2026-W43-r6.zip",
   "entries": {
     "2026-W43": {
       "bonus": 3,
@@ -51,6 +51,29 @@
         13
       ],
       "revision": 2
+    },
+    "2026-W43-r6": {
+      "bonus": 3,
+      "build_id": "07ee1e86b9ce50ca80c77038b4ed0229b43adce0b23e932ad02c5f1597b47b36",
+      "date": "2026-10-25 22:21 KST",
+      "issue_id": "2026-W43",
+      "path": "posts/2026-W43/revisions/r6",
+      "ranks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "revision": 6
     }
   },
   "files": {
@@ -60,7 +83,7 @@
     },
     "index.html": {
       "bytes": 1726,
-      "sha256": "d09d582be9d506fd6dd88ca53e9546cc08d9606eccab73c8754c2fc7d6714759"
+      "sha256": "cf54239835b403ffe5d922b51bb0535ba6017c0ec374071f001b8d0c00d54745"
     },
     "posts/2026-W43/assets/site.css": {
       "bytes": 18269,
@@ -185,14 +208,75 @@
     "posts/2026-W43/revisions/r2/index.html": {
       "bytes": 10103,
       "sha256": "5fa2aa3a197fb91a2ec9b7ce7bf9aa0fed148f0e23e0049f6a14796e0ae7b162"
+    },
+    "posts/2026-W43/revisions/r6/assets/site.css": {
+      "bytes": 18269,
+      "sha256": "bb6e175beed5c98aa5c65c1c597922716d2f8e93f46f023800c0e1013e9dd5a3"
+    },
+    "posts/2026-W43/revisions/r6/details/01.html": {
+      "bytes": 5730,
+      "sha256": "50a65341f97456067fe84fba377b05d7a50abfcc59cacb91cde9eae6c8f21ac1"
+    },
+    "posts/2026-W43/revisions/r6/details/02.html": {
+      "bytes": 6404,
+      "sha256": "0ebf32ca2c0bd4040694d5cd4f1a7ed1e694c2e914bfddaaff5cf9401b2e7757"
+    },
+    "posts/2026-W43/revisions/r6/details/03.html": {
+      "bytes": 6109,
+      "sha256": "266a9df209a94287c9d625375c7466625f6798b43fbaac50875d2d7cbe8c1c85"
+    },
+    "posts/2026-W43/revisions/r6/details/04.html": {
+      "bytes": 6812,
+      "sha256": "e132559b7cc551e37f009791a1b824bce06c77a3485746da03c8e7da4ec0709a"
+    },
+    "posts/2026-W43/revisions/r6/details/05.html": {
+      "bytes": 6228,
+      "sha256": "39f0e400dc675b6eba221419bebc95ed1574a90d5e5454873676f011dbd5ff0f"
+    },
+    "posts/2026-W43/revisions/r6/details/06.html": {
+      "bytes": 7036,
+      "sha256": "b4622e1872256fe34e6b0dff853409d796cc46af5720f4e7479c37b4cc5ca0bf"
+    },
+    "posts/2026-W43/revisions/r6/details/07.html": {
+      "bytes": 6732,
+      "sha256": "385e153fd376100e4e22b6af2bf717a2d6f80e9f2d2c3abcd5ec4c42a1d0b7d7"
+    },
+    "posts/2026-W43/revisions/r6/details/08.html": {
+      "bytes": 7513,
+      "sha256": "3ed6db8c960dec7ea715ba2e09af8e30beb43e0c24b9de8aafd439ceef756293"
+    },
+    "posts/2026-W43/revisions/r6/details/09.html": {
+      "bytes": 8496,
+      "sha256": "1f52d0986ed70cca6ffc699d9b965c70fd3718c68ee676763a7add08abd5bdac"
+    },
+    "posts/2026-W43/revisions/r6/details/10.html": {
+      "bytes": 4505,
+      "sha256": "a4020ece750968ddf97783ebba4144f14da69211d0726a2a91dd82b200f2d045"
+    },
+    "posts/2026-W43/revisions/r6/details/11.html": {
+      "bytes": 3689,
+      "sha256": "3d09efc915ace5f2f392e26c78b52c452c05dd9f456b0eba05e5b095739f1ac8"
+    },
+    "posts/2026-W43/revisions/r6/details/12.html": {
+      "bytes": 3639,
+      "sha256": "fc8887f0d43aaccb04756e9a2b362a8e53f57360278f1afa37113c09c8cebbaa"
+    },
+    "posts/2026-W43/revisions/r6/details/13.html": {
+      "bytes": 4274,
+      "sha256": "93401840bc0680693acf1607219eb99eedd4d52379a09a4d11a1c18b41958924"
+    },
+    "posts/2026-W43/revisions/r6/index.html": {
+      "bytes": 9103,
+      "sha256": "2039485d4481883eb0c077031cd44d721efd413628eeedf09fd984e14e0ab024"
     }
   },
   "optional_assets": {
     "2026-W43": [
       "cover.png"
     ],
-    "2026-W43-r2": []
+    "2026-W43-r2": [],
+    "2026-W43-r6": []
   },
-  "release_tag": "2026-W43-r2-5d307d7aaed0",
+  "release_tag": "2026-W43-r6-52e42b2b8f52",
   "schema_version": 2
 }
