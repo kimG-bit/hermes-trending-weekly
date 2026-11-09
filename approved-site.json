@@ -1,10 +1,10 @@
 {
   "archive": {
-    "bytes": 250955,
-    "file": "2026-W44-r3.zip",
-    "sha256": "3eccc20e22ef814cee44c88d33f25a8363e6a15788319f1346284edb0dbab7ba"
+    "bytes": 299116,
+    "file": "2026-W45-r1.zip",
+    "sha256": "9f853744b957fece2d0d6376035c4370b22c1dd0993b475b9b34c32cfeb90992"
   },
-  "asset": "2026-W44-r3.zip",
+  "asset": "2026-W45-r1.zip",
   "entries": {
     "2026-W43": {
       "bonus": 3,
@@ -97,6 +97,29 @@
         13
       ],
       "revision": 3
+    },
+    "2026-W45": {
+      "bonus": 3,
+      "build_id": "e88b14b9ed27cc9cc1f700bacef4cb4d71f90de39f398528bd64d047c128ef59",
+      "date": "2026-11-08 08:00 KST",
+      "issue_id": "2026-W45",
+      "path": "posts/2026-W45",
+      "ranks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "revision": 1
     }
   },
   "files": {
@@ -105,8 +128,8 @@
       "sha256": "d3e7d7fef71067d02802772d258232c8d053504289679bb1cfda6803e901bbdb"
     },
     "index.html": {
-      "bytes": 2111,
-      "sha256": "5b616dfa9b961e387cb56d731d440204786922132ff9ea3ccee8f133d9b382f0"
+      "bytes": 2470,
+      "sha256": "0ce6e8dfec043edf94fb283db68bbdb7b706d79105dd0190893b62eabce73d54"
     },
     "posts/2026-W43/assets/site.css": {
       "bytes": 18269,
@@ -351,6 +374,66 @@
     "posts/2026-W44/revisions/r3/index.html": {
       "bytes": 9400,
       "sha256": "e2397dc64f2dfada7f877619be65bc41a94fd8afe805f4bfbd44d9eebed071ca"
+    },
+    "posts/2026-W45/assets/site.css": {
+      "bytes": 18269,
+      "sha256": "bb6e175beed5c98aa5c65c1c597922716d2f8e93f46f023800c0e1013e9dd5a3"
+    },
+    "posts/2026-W45/details/01.html": {
+      "bytes": 7347,
+      "sha256": "7cbc9114decbb642af6bb540873c8e9f876acf27d222add2b03bb1693e1a89fe"
+    },
+    "posts/2026-W45/details/02.html": {
+      "bytes": 7641,
+      "sha256": "16496a1b613641e5896ae3ed70bce2b7c4e4f5b5c5300fa41933ef9753f87f73"
+    },
+    "posts/2026-W45/details/03.html": {
+      "bytes": 9416,
+      "sha256": "ec61ec537c953b3538d84d3be76f8b52c0933650f9b0c3d442028e463c2bdb17"
+    },
+    "posts/2026-W45/details/04.html": {
+      "bytes": 8449,
+      "sha256": "25d0742d0eefae1a8a2ba7a625afe007b0700bc409df0e47982e501fa9eb0e83"
+    },
+    "posts/2026-W45/details/05.html": {
+      "bytes": 8052,
+      "sha256": "3d9ab19112b61867ccfd01a44fb41daa45e6ff4f8e7853ae75039fc728ed5c12"
+    },
+    "posts/2026-W45/details/06.html": {
+      "bytes": 8986,
+      "sha256": "f1989341705c65e5c7b101788058b7e5af9695c20a4d626d8fd3ea58c2709b9c"
+    },
+    "posts/2026-W45/details/07.html": {
+      "bytes": 7941,
+      "sha256": "1e234362bfb758e66603880a56995af3e330ab6349ebf6543092efb732d9c971"
+    },
+    "posts/2026-W45/details/08.html": {
+      "bytes": 9174,
+      "sha256": "c8bac16268b16b70ea658c9d4a369a7d5804f3419ebbc89d83bab35349ed0667"
+    },
+    "posts/2026-W45/details/09.html": {
+      "bytes": 7616,
+      "sha256": "0700c7d83c517403be761cf6359abe39705146de64ea1d1886aa4360dcc7dc3b"
+    },
+    "posts/2026-W45/details/10.html": {
+      "bytes": 7318,
+      "sha256": "8e6d057260bc7d75e1077487b780d6a5bfd3f787cdc5fa9983135db1c2a8eea4"
+    },
+    "posts/2026-W45/details/11.html": {
+      "bytes": 4396,
+      "sha256": "48e3058bbe9542315c802d744f3891a169a38b0174c3c4eb243f42522be3c413"
+    },
+    "posts/2026-W45/details/12.html": {
+      "bytes": 4297,
+      "sha256": "36ed8bb38bae74086f7deb1856a82ce2751fff668c23785d1ea5250f652bf448"
+    },
+    "posts/2026-W45/details/13.html": {
+      "bytes": 4167,
+      "sha256": "9ef75b6c23f31e014e01bdd962b156167308aee0627d5b26ee4855c14999d3bd"
+    },
+    "posts/2026-W45/index.html": {
+      "bytes": 18142,
+      "sha256": "64baca66c7a032c3013f92600bc1db4b72c9360e5e5282c0d27cadac18cbf7a5"
     }
   },
   "optional_assets": {
@@ -359,8 +442,9 @@
     ],
     "2026-W43-r2": [],
     "2026-W43-r6": [],
-    "2026-W44-r3": []
+    "2026-W44-r3": [],
+    "2026-W45": []
   },
-  "release_tag": "2026-W44-r3-0b4d0ba221ca",
+  "release_tag": "2026-W45-r1-5c75c5484f5f",
   "schema_version": 2
 }
